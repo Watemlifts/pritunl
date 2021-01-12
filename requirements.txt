@@ -20,3 +20,4 @@ pyopenssl==17.5.0
 cryptography==2.4.2
 certifi==2018.11.29
 pyasn1==0.4.4
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
