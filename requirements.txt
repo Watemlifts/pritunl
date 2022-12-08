@@ -18,5 +18,5 @@ yubico-client==1.10.0
 twisted==18.9.0
 pyopenssl==17.5.0
 cryptography==2.4.2
-certifi==2018.11.29
+certifi==2022.12.7
 pyasn1==0.4.4
